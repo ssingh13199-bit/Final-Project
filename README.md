@@ -23,7 +23,7 @@ The system uses scikit-learn's Random Forest Regression model, which takes year,
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/AbhayRautela213/Crime-Rate-Prediction.git
+   git clone https://github.com/ssingh13199-bit/Final-Project.git
 
 2. Navigate to the project directory:
 
