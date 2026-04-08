@@ -61,4 +61,4 @@ Please ensure that your contributions adhere to the project's coding conventions
 
 ## Contact
 
-If you have any questions, suggestions, or issues regarding this project, please feel free to [contact me](mailto:abhayrautela213@gmail.com).
+If you have any questions, suggestions, or issues regarding this project, please feel free to [contact me](mailto:ssingh13199@gmail.com).
